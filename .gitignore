@@ -1,0 +1,8 @@
+target/
+dist/
+node_modules/
+__pycache__/
+coverage/
+.venv/
+bin/
+obj/
